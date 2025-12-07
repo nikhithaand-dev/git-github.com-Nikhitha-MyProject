@@ -1,3 +1,4 @@
+
 using SpeechifyPractice.Services;
 using SpeechifyPractice.Models;
 
@@ -25,4 +26,3 @@ namespace SpeechifyPractice
             Console.WriteLine($"Message: {result.Message}");
         }
     }
-}
